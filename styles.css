@@ -1,2 +1,69 @@
+button{
+	font-weight:bold;
+}
 
-/* Your CSS Code here. */
+#button-1{
+	background-color:blue;
+	color:white;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+}
+
+#button-2{
+	background-color:white;
+	color:gray;
+	border:2px solid gray;
+	padding:9px;
+	border-radius:5px;
+}
+
+#button-3{
+	background-color:green;
+	color:white;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+}
+
+#button-4{
+	background-color:red;
+	color:white;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+}
+
+#button-5{
+	width:100%;
+	background-color:orange;
+	color:black;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+}
+
+#button-6{
+	background-color:skyblue;
+	color:black;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+}
+
+#button-7{
+	background-color:whitesmoke;
+	color:black;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+}
+
+#button-8{
+	background-color:white;
+	color:blue;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+	text-decoration:underline;
+}
